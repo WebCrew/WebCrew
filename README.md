@@ -1,4 +1,4 @@
-![@WebCrew Profile Cover]([image link](https://mega.nz/file/giAg0CSI#8GANnk4H04s6OpZg-LYrLxwrWERmKEf5QVysFBeq13Y))
+![@WebCrew Profile Cover](https://i.imgur.com/9Qsv2c0.png)
 
 ### Hi there 👋
 
