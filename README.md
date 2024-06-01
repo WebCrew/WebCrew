@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on: my very own social network CMS
 
-📫 How to reach me & join me: https://net-twin.de/net/NetTwin or at https://prattle.space/Andreas
+📫 How to reach me & join me: https://net-twin.de/net/NetTwin
 
 💬 Ask me about: anything that makes sense
 
