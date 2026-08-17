@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-🌱 I’m currently learning: PHP and Ruby  
+🌱 I’m currently learning: Ruby  
 
-🔭 I’m currently working on: my very own social network CMS
+🔭 I’m currently working on: my very own 2.5D Game Engine "Parlyn Engine"
 
 📫 How to reach me & join me: https://net-twin.de/net/NetTwin
 
